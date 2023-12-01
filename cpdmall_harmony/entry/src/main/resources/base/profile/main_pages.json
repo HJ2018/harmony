@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/splash/splash",
+    "pages/home/IndexPage"
+  ]
+}

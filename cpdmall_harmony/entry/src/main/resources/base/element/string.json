@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "警网优选"
+    },
+    {
+      "name": "bottom_text_home",
+      "value": "首页"
+    },
+    {
+      "name": "bottom_text_category",
+      "value": "分类"
+    },
+    {
+      "name": "bottom_text_explore",
+      "value": "探索"
+    },
+    {
+      "name": "bottom_text_cart",
+      "value": "购物车"
+    },
+    {
+      "name": "bottom_text_mine",
+      "value": "我的"
+    }
+  ]
+}
